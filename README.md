@@ -35,7 +35,7 @@ The link to my personal drive where this is hosted is
 https://drive.google.com/file/d/1pnvtMdEPpH0HgrfKOdU62NaNvqn4UCYy/view?usp=drive_link
 
 
-The only reason why it is here is GitHub has a limit of 2GB for their downloads
+The only reason why it is here is GitHub has a limit of 2GB for their downloads.
 This was the only way I could share this with you as it will not compress any further.
 This is because it has been fully updated by kali linux repos and also has all the required python3 added. 
 
