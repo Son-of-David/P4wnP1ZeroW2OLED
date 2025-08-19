@@ -32,7 +32,7 @@ The default image to be shown at start up is bootdavidsstone.bmp there are instr
 The Default password on the image is now: twofishencryption 
 
 The link to my personal drive where this is hosted is
-https://drive.google.com/file/d/1pnvtMdEPpH0HgrfKOdU62NaNvqn4UCYy/view?usp=drive_link
+https://drive.google.com/file/d/1fkbjXzkf5hehjl0YS0c8Yi2e3modCsUu/view?usp=sharing
 
 
 The only reason why it is here is GitHub has a limit of 2GB for their downloads.
