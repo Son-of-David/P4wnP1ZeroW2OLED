@@ -1,4 +1,43 @@
+This work is a compilation of many authors and artists of technology.
+I would like to personally thank and recognize these people and 
+their works, for this image would not be possible without their 
+help and generousity. First and foremost Kali and RoganDawes for the 
+P4wnP1 operating system. Next I would like to thank LuemmelSec for 
+converting the image to the Zero 2. Then beboxos for the base script
+of gui.py and NightRang3r for the HIDscripts and the editing of 
+python scripts to make the GUI work straight from the launch.
+I'm grateful for such grace, respect, and generousity because 
+these people have donated their time and resources to help us
+with the gifts that the have blesed us with. Please if you 
+are able to help people with your knowledge and growth do the
+same. Thats why I made this image even though the foundation and
+everything was there. I want people to heal grow and learn like
+I have working on this project. I hope you are able to advance
+us all with your work. - Son of David
+
+here are links to their pages please give them all stars
+https://github.com/RoganDawes/P4wnP1_aloa
+https://github.com/LuemmelSec/P4wnP1_aloa
+https://github.com/beboxos/P4wnP1_ALOA_OLED_MENU_V2
+https://github.com/NightRang3r/P4wnP1-A.L.O.A.-Payloads  
+
+The Waveshare 1.3inch OLED top hat with the SH1106 drive will work instantly with the image I provided the LCD will require you to delete the BeBoXGui folder and reinstall by running the install.sh in the LCD folder.
+
+The image size with all the updates is 3.3GB after being compressed with gzip it was a dd copy from a 16GB microSD card and should probabably be used with a 32GB or larger card to ensure proper function. 
+To use the whole storage area of the card cd to /root/scripts then type in ./rpi-wiggle.sh 
+
+The default image to be shown at start up is bootdavidsstone.bmp there are instructions on how to change it in CHANGEIMAGE.md which can be viewed by typing cat or nano. 
 # P4wnP1 A.L.O.A.
+
+The Default password on the image is now: twofishencryption 
+
+The link to my personal drive where this is hosted is
+https://drive.google.com/drive/u/1/folders/1vRTNCi6DVr0GV-4ZEb8MVswq1ghiaOUa
+
+
+The only reason why it is here is GitHub has a limit of 2GB for their downloads
+This was the only way I could share this with you as it will not compress any further.
+This is because it has been fully updated by kali linux repos and also has all the required python3 added. 
 
 P4wnP1 A.L.O.A. by MaMe82 is a framework which turns a Rapsberry Pi Zero W into a flexible, low-cost platform for 
 pentesting, red teaming and physical engagements ... or into "A Little Offensive Appliance".
@@ -8,7 +47,7 @@ pentesting, red teaming and physical engagements ... or into "A Little Offensive
 The latest image could be found under release tab.
 
 The easiest way to access a fresh P4wnP1 A.L.O.A. installation is to use the web client via the spawned WiFi (the PSK
-is `MaMe82-P4wnP1`, the URL `http://172.24.0.1:8000`) or SSH (default password `toor`).
+is `MaMe82-P4wnP1`, the URL `http://172.24.0.1:8000`) or SSH (default password `twofishencryption`).
 
 ## 1. Features
 
