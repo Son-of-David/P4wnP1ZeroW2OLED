@@ -2,15 +2,15 @@ This work is a compilation of many authors and artists of technology.
 I would like to personally thank and recognize these people and 
 their works, for this image would not be possible without their 
 help and generousity. First and foremost Kali and RoganDawes for the 
-P4wnP1 operating system. Next I would like to thank LuemmelSec for 
+P4wnP1 operating system. I would next like to thank LuemmelSec for 
 converting the image to the Zero 2. Then beboxos for the base script
 of gui.py and NightRang3r for the HIDscripts and the editing of 
 python scripts to make the GUI work straight from the launch.
 I'm grateful for such grace, respect, and generousity because 
 these people have donated their time and resources to help us
-with the gifts that the have blesed us with. Please if you 
+with the gifts that they have blessed us with. Please if you 
 are able to help people with your knowledge and growth do the
-same. Thats why I made this image even though the foundation and
+same. Thats why I made this image even though the foundation of
 everything was there. I want people to heal grow and learn like
 I have working on this project. I hope you are able to advance
 us all with your work. - Son of David
