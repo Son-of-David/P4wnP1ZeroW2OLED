@@ -16,14 +16,25 @@ I have working on this project. I hope you are able to advance
 us all with your work. - Son of David
 
 here are links to their pages please give them all stars
+
 https://github.com/RoganDawes/P4wnP1_aloa
+
 https://github.com/LuemmelSec/P4wnP1_aloa
+
 https://github.com/beboxos/P4wnP1_ALOA_OLED_MENU_V2
+
 https://github.com/NightRang3r/P4wnP1-A.L.O.A.-Payloads  
+
+If you coud give me a star too that would be appreciated I put in a lot of hours on this. 
+
+The link to my personal server where this is hosted for direct download and sha256 verification is
+https://torchurch.us
+
+Google didn't like me using their drive although a few people were able to get the image there.
 
 The Waveshare 1.3inch OLED top hat with the SH1106 drive will work instantly with the image I provided the LCD will require you to delete the BeBoXGui folder and reinstall by running the install.sh in the LCD folder.
 
-The image size with all the updates is 3.3GB after being compressed with gzip it was a dd copy from a 16GB microSD card and should probabably be used with a 32GB or larger card to ensure proper function. 
+The image size with all the updates is 3.3GB after being compressed with gzip it was a dd copy from a 32GB microSD card and should probabably be used with a 64GB or larger card to ensure proper function. 
 To use the whole storage area of the card cd to /root/scripts then type in ./rpi-wiggle.sh 
 
 The default image to be shown at start up is bootdavidsstone.bmp there are instructions on how to change it in CHANGEIMAGE.md which can be viewed by typing cat or nano. 
@@ -31,12 +42,8 @@ The default image to be shown at start up is bootdavidsstone.bmp there are instr
 
 The Default password on the image is now: twofishencryption 
 
-The link to my personal drive where this is hosted is
-https://drive.google.com/file/d/1fkbjXzkf5hehjl0YS0c8Yi2e3modCsUu/view?usp=sharing
-
-
-The only reason why it is here is GitHub has a limit of 2GB for their downloads.
-This was the only way I could share this with you as it will not compress any further.
+The only reason why it is on TOR Church instead of here is GitHub has a limit of 2GB for their downloads.
+This was the only way I could share this with you besides breaking it up as it will not compress any further.
 This is because it has been fully updated by kali linux repos and also has all the required python3 added. 
 
 P4wnP1 A.L.O.A. by MaMe82 is a framework which turns a Rapsberry Pi Zero W into a flexible, low-cost platform for 
